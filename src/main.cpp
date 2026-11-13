@@ -121,14 +121,16 @@ int main()
                 DrawText("D", 330, 425, 30, BLACK);
                 DrawText("LEFT ARROW", 250, 575, 30, BLACK);
                 DrawText("A", 330, 650, 30, BLACK);
-                DrawText("W", 330, 800, 30, BLACK);
+                DrawText("UP ARROW", 275, 800, 30, BLACK);
+                DrawText("W", 330, 875, 30, BLACK);
 
             DrawText("FUNCTION", 1250, 255, 30, RED);
                 DrawText("MOVE THE SHAPE TOWARDS THE RIGHT QUICKLY", 960, 350, 30, BLACK);
                 DrawText("MOVE THE SHAPE TOWARDS THE RIGHT BY 1 CELL", 960, 425, 30, BLACK);
                 DrawText("MOVE THE SHAPE TOWARDS THE LEFT QUICKLY", 960, 575, 30, BLACK);
                 DrawText("MOVE THE SHAPE TOWARDS THE LEFT BY 1 CELL", 960, 650, 30, BLACK);
-                DrawText("STORE OR USE A SHAPE IN THE HOLD STORAGE", 960, 800, 30, BLACK);
+                DrawText("ROTATE THE SHAPE 90 DEGREES CLOCKWISE", 960, 800, 30, BLACK);
+                DrawText("STORE OR USE A SHAPE IN THE HOLD STORAGE", 960, 875, 30, BLACK);
 
 
 
